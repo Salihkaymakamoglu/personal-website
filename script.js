@@ -53,7 +53,7 @@ ScrollReveal().reveal(
 
 
 function downloadPDF(){
-    var pdfUrl = "images/cv2.pdf";
+    var pdfUrl = "images/CV.pdf";
 
     // Create a temporary <a> element
     var link = document.createElement("a");
